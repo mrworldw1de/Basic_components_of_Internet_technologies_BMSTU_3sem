@@ -1,0 +1,13 @@
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.exe
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.deps.json
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.runtimeconfig.json
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.runtimeconfig.dev.json
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.dll
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\bin\Debug\netcoreapp3.1\1lab c sharp.pdb
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.csprojAssemblyReference.cache
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.AssemblyInfoInputs.cache
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.AssemblyInfo.cs
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.csproj.CoreCompileInputs.cache
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.dll
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.pdb
+C:\Users\danib\source\repos\1lab c sharp\1lab c sharp\obj\Debug\netcoreapp3.1\1lab c sharp.genruntimeconfig.cache
